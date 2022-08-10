@@ -14,4 +14,4 @@ step5
                
         n2=m.nextInt();
         
-        System.out.println(" The Summation is "+(n1+n2));
+       // System.out.println(" The Summation is "+(n1+n2));
